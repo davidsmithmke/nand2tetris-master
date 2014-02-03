@@ -1,3 +1,6 @@
 [submodule "project-1"]
 	path = project-1
 	url = https://github.com/davidsmithmke/nand2tetris-project1.git
+[submodule "project-2"]
+	path = project-2
+	url = https://github.com/davidsmithmke/nand2tetris-project2.git
